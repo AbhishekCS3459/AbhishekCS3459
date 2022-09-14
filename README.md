@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**AbhishekCS3459/AbhishekCS3459** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Youtube
 - 🌱 I’m currently learning python and Data Structure and Algorithm
