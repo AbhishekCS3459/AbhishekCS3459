@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekcs3459" alt="abhishekcs3459" /></a> </p>
 
-![Screenshot 2022-09-15 050045](https://user-images.githubusercontent.com/94506000/190280559-f731b07c-5640-488c-9eb8-245e11c8a4b7.png)
+![image](https://user-images.githubusercontent.com/94506000/203712169-13d628f5-01c7-4f6c-a2dd-7db57b6d5600.png)
+
 
 - 🔭 I’m currently studying [Weather Forecast using Python](https://github.com/AbhishekCS3459/Weather_Forecast_Python)
 
