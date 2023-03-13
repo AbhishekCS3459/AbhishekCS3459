@@ -23,7 +23,7 @@
 - 📫 How to reach me **https://www.linkedin.com/in/abhishek-kumar-verma-2b0675220/**
 - <p> <b> Website link </b> : https://abhishekcs3459.github.io/Daily-Dose-oF-Code-Website/</p> 
 
-[![AbhishekCS3459's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AbhishekCS3459&theme=react&area=true&height=600&title_color=FFFF00&line=8E44AD&area_color=3498DB)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![AbhishekCS3459's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AbhishekCS3459&theme=react&area=true&height=600&title_color=FFFF00&line=8E44AD&area_color=3498DB&point=F4D03F&bg_color=17202A)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <h3 align="left">Connect with me:</h3>
