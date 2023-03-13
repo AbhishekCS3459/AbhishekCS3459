@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhishek Kumar Verma</h1>
+<h1 align="center">Hi 👋, I'm Abhishek Kumar Verma 🚀🚀</h1>
 <h3 align="center">CODER by PASSION</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekcs3459&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekcs3459" /> </p>
@@ -8,7 +8,7 @@
 ![image](https://user-images.githubusercontent.com/94506000/203712169-13d628f5-01c7-4f6c-a2dd-7db57b6d5600.png)
 
 
-- 🔭 I’m currently studying [Weather Forecast using Python](https://github.com/AbhishekCS3459/Weather_Forecast_Python)
+- 🔭 I’m currently studying Data Structures and Algorithms and Practicing the Problems 🚀🚀🚀.
 
 - 🌱 I’m currently learning **Kubernetes, Computer Vision**
 
