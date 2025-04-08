@@ -9,10 +9,11 @@
 
 ---
 
-### 🌟 About Me  
-I'm a Backend Developer and DevOps Engineer with over a year of experience building scalable and efficient systems. I enjoy solving real-world problems and creating solutions that work well and are easy to maintain. I like learning new technologies and finding better ways to do things. Outside of work, I take part in hackathons, contribute to open-source projects, and keep improving my skills through hands-on practice and collaboration.
----
+### 🌟 About Me
 
+I'm a backend developer and DevOps engineer with over a year of experience in building systems that are scalable and efficient. I like working on real-world problems and building solutions that are practical and easy to maintain. I'm always interested in learning new tools and technologies that can help improve my work. Outside of my job, I take part in hackathons, contribute to open-source projects, and keep learning through hands-on projects and working with others.
+
+---
 ### 🔧 Technical Skills  
 
 #### **Languages & Frameworks**  
